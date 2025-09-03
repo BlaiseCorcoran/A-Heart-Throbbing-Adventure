@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"wah_wah_sad_trombone_6347",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":5.256,
+  "name":"wah_wah_sad_trombone_6347",
+  "parent":{
+    "name":"SFX",
+    "path":"folders/Sounds/SFX.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"wah_wah_sad_trombone_6347.mp3",
+  "type":0,
+  "volume":1.0,
+}
